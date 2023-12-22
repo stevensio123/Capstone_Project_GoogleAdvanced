@@ -51,7 +51,7 @@ A logistic regression model and tree-based models are suitable for this task bec
 
 To develop and evaluate the machine learning models, the dataset was divided into two parts:
 
-- **Training and Validation Set (75%)**: This subset contains 75% of the data, which is used for training the models and performing validation through techniques such as cross-validation to tune the hyperparameters and prevent overfitting.
+- **Training and Validation Set (75%)**: This subset contains 75% of the data, which is used for training the models and performing techniques such as cross-validation to tune the hyperparameters and prevent overfitting. An evaluation score would be computed for each model using the validation dataset, which is 25% of this subset.
 
 - **Test Set (25%)**: The remaining 25% of the data serves as the unseen test set. This part is used to evaluate the final performance of the champion model, providing an estimate of how well the champion model is expected to perform on new, unseen data.
 
