@@ -74,3 +74,8 @@ The Champion Model, which is the XGBoost, yields the following scores on the rem
 | ------------------------- | -------- | --------- | ------- | ------- | ------ |
 | Champion Model (XGBoost)  | 0.981168 | 0.973369  | 0.911607| 0.985647| 0.941435|
 
+# Accessing the Project Notebook
+
+The Jupyter notebook containing the full analysis for this project, including data cleaning, exploratory analysis, model training, and evaluation, can be found at the following file:
+`Activity_ Course 7 Salifort Motors project lab.ipynb` , click this file to view it directly in your web browser.
+
