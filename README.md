@@ -79,3 +79,10 @@ The Champion Model, which is the XGBoost, yields the following scores on the rem
 The Jupyter notebook containing the full analysis for this project, including data cleaning, exploratory analysis, model training, and evaluation, can be found at the following file:
 `Activity_ Course 7 Salifort Motors project lab.ipynb` , click this file to view it directly in your web browser.
 
+# Executive Summary Presentation
+
+The executive summary of the project can be viewed in a PowerPoint presentation format. The presentation provides a concise 1-page overview of the key insights, overviews, and conclusions drawn from the analysis.
+
+You can access the PowerPoint file with the executive summary using the following link:
+
+[Executive Summary - Google Slides](https://docs.google.com/presentation/d/1-eEhBQSSY6TdfehuDrra6EnLf2tTRdzTbTtzOrP8a-Y/edit?usp=sharing&resourcekey=0-OkSHwt2G04v5z6V75Vymcw)
